@@ -1,0 +1,11 @@
+{
+  "name": "verdandi-calender",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "date-holidays": "^3.19.2",
+    "dayjs": "^1.11.7"
+  }
+}
