@@ -4,7 +4,7 @@ In Norse mythology Verðandi is one of the norns. Along with Urðr and Skuld, Ve
 
 #
 
-Providing all calender data such as holidays, both regional and local, week number, etc, in an easy-to-consume dataset so you only need to focus on building the UI
+Provides a simple React Calender component that is easy to extend and customize to your own needs or you can just use the easy-to-consume calender dataset that provides regional holidays, week of year, etc.
 
 # Contributing
 
